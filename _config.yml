@@ -3,14 +3,14 @@ baseurl: "/Type-on-Strap"
 url: "https://h11ck.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
-# title: My personal blog                                   # site's title
+title: Hardware Design                                   # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/hhd-logo.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-# header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-# header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: Hardware Highspeed Design - Thiết kế phần cứng.  # Change Blog header text
+header_feature_image: assets/img/feature.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
